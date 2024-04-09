@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         问答 UI 修复
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/hidu/tamper-js
 // @version      2024-04-08
-// @description  try to take over the world!
+// @description  对 问答 UI 一些不合理的地方进行调整，提升可阅读性
 // @author       hidu
 // @match        *://wenda.baidu.com/ask/question/*
 // @require      https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js
